@@ -1,0 +1,1 @@
+RabbitMQ doesn't allow you to redefine an existing queue with different parameters and will return an error to any program that tries to do that.
